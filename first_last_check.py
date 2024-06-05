@@ -1,6 +1,6 @@
 # Check if the first and last number of a list is the same
 # Make a list of a series of numbers and use a flag to break from a for loop
-# Additional feature added based on https://pynative.com/python-basic-exercise-for-beginners
+# Additional feature added based on https://pynative.com/python-basic-exercise-for-beginners / Exercise 5
 
 def first_last_check():
 	lst = []
