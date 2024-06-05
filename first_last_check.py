@@ -9,7 +9,7 @@ def first_last_check():
 	for index in range(len(num)):
 		if num[index] == "!":
 			break
-		if num[index] == " ":
+		elif num[index] == " ":
 			continue
 		else:
 			str_to_num = int(num[index])
