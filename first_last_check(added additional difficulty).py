@@ -24,4 +24,4 @@ def first_last_check(): # define function first_last_check
 	else: # otherwise
 		return False # return false
 
-print(first_last_check())
+print(first_last_check()) # Call the first_last_check() through a print statement. Print "Exit...", True, or False.
