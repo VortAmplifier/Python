@@ -1,5 +1,6 @@
 # Enter values and place them in a list
 # Merge strings from two lists into a third list
+# Program is Work-In-Progress as of 6/8/2024
 
 string1 = input()
 string2 = input()
