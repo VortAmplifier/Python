@@ -1,8 +1,17 @@
-# A program that removes certain characters from a given string includes a function
-# https://pynative.com/python-basic-exercise-for-beginners/ / Exercise 4
-def remove_chars(string, n): # define a function remove_chars that accepts two arguments string and a number
-	new_string = string[n:] # Use string slicing
-	
-	return new_string # return new string
-	
-print(remove_chars("pynative", 2)) # test the function
+string0 = input("Enter a string: ")
+letter = input("Enter a letter to be removed from a string: ")
+
+conv_string = list(string0)
+
+for i in range(len(string0)):
+    if string0[i] == letter:
+        conv_string.pop(i)
+        break
+    
+new_string = ""
+for j in range(len(conv_string)):
+    new_string += conv_string[j]
+
+print(new_string)
+        
+
