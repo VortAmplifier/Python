@@ -1,6 +1,6 @@
-### ||Python|| This repo contains Python programs and projects created by [VortAmplifier](https://github.com/VortAmplifier/Python). These range from beginner exercises to small games and GUI apps. This repository showcases my Python skills through a collection of projects and exercises that cover core programming principles and practical problem-solving.
+# ||Python|| This repo contains Python programs and projects created by [VortAmplifier](https://github.com/VortAmplifier/Python). These range from beginner exercises to small games and GUI apps. This repository showcases my Python skills through a collection of projects and exercises that cover core programming principles and practical problem-solving.
 
-# Most programs require Python 3.7 or higher.
+### Most programs require Python 3.7 or higher.
 
 
 ---
