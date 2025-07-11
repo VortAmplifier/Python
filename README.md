@@ -22,7 +22,7 @@ Inventory.py - an app which is a demonstration of an inventory incorporating lin
 hangman_game_work_in_progress.py - Simple hangman game which might be expanded to something bigger
 [Download Hangman](https://raw.githubusercontent.com/VortAmplifier/Python/refs/heads/main/hangman_game_work_in_progress.py)
 rock_paper_scissors_game.py - Simple Rock,Paper,Scissors game incorpating fundamental Python concepts
-[Download RockPaperScissors] https://github.com/VortAmplifier/Python/blob/main/rock_paper_scissors_game.py
+[Download RockPaperScissors](https://github.com/VortAmplifier/Python/blob/main/rock_paper_scissors_game.py)
 
 
 
