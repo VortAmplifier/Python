@@ -3,4 +3,4 @@ string = "Python"
 if "Pyt" in string:
     print(True)
 
-# Събстринг търсачка
+# How to look for a substring
